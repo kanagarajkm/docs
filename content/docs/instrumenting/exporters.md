@@ -98,6 +98,7 @@ wide variety of JVM-based applications, for example [Kafka](http://kafka.apache.
    * [Gluster exporter](https://github.com/ofesseler/gluster_exporter)
    * [Hadoop HDFS FSImage exporter](https://github.com/marcelmay/hadoop-hdfs-fsimage-exporter)
    * [Lustre exporter](https://github.com/HewlettPackard/lustre_exporter)
+   * [Minio exporter](https://github.com/minio/minio)
    * [ScaleIO exporter](https://github.com/syepes/sio2prom)
 
 ### HTTP
@@ -227,7 +228,6 @@ separate exporters are needed:
    * [mgmt](https://github.com/purpleidea/mgmt/blob/master/docs/prometheus.md)
    * [MidoNet](https://github.com/midonet/midonet)
    * [midonet-kubernetes](https://github.com/midonet/midonet-kubernetes) (**direct**)
-   * [Minio](https://github.com/minio/minio)
    * [Netdata](https://github.com/firehol/netdata)
    * [Pretix](https://pretix.eu/)
    * [Quobyte](https://www.quobyte.com/) (**direct**)
